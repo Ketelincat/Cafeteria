@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/iconcoffe"
+        android:contentDescription="cafe"
+        android:icon="@drawable/coffee_cup"
+        android:title="Coffee" />
+    <item
+        android:id="@+id/iconmuffin"
+        android:contentDescription="bolo"
+        android:icon="@drawable/muffin"
+        android:title="Muffins" />
+    <item
+        android:id="@+id/icontea"
+        android:contentDescription="cha"
+        android:icon="@drawable/tea_cup"
+        android:title="Tea" />
+    <item
+        android:id="@+id/icondonuts"
+        android:contentDescription="pao"
+        android:icon="@drawable/donut"
+        android:title="Donuts" />
+
+
+</menu>
