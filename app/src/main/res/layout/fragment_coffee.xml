@@ -11,9 +11,7 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
-        android:id="@+id/rvCoffee"
-        tools:itemCount="5"
-        tools:listitem="@layout/modelo"
-        android:layout_height="match_parent" />
+        android:id="@+id/lstlistacafe"
+        android:layout_height="match_parent"/>
 
 </LinearLayout>
